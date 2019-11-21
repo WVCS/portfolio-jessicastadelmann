@@ -1,4 +1,11 @@
+<!DOCTYPE html>
 <html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <title>Jessica's website</title>
+  <LINK href="styles.css" rel="stylesheet" type="text/css">
+    </head>
+
   <body style="background-color: #080705;">
     <p style="text-align:center; color:#912F40; font-size:200%;"> Jessica Stadelmann</p>
     <p style="color:white">
